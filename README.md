@@ -1,2 +1,2 @@
 # Travello
-Info related place 
+Info related your place 
